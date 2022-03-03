@@ -1,7 +1,7 @@
 const {
     SlashCommandBuilder
 } = require('@discordjs/builders');
-const rojs = require('@zlures/rojs');
+const rojs = require('@rojs/ro-js');
 const {
     MessageEmbed
 } = require('discord.js')
@@ -17,7 +17,7 @@ module.exports = {
             const exampleEmbed = new MessageEmbed()
             exampleEmbed.setColor('#deff98')
             exampleEmbed.setTitle('Response')
-            exampleEmbed.setDescription('**Code**\n```const rojs = require("@zlures/rojs");\nrojs.GetUsernameByID(' + number + ', callback);```')
+            exampleEmbed.setDescription('**Code**\n```const rojs = require("@rojs/ro-js");\nrojs.GetUsernameByID(' + number + ', callback);```')
             exampleEmbed.addFields({
                 name: 'Username',
                 value: request
