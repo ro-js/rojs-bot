@@ -25,7 +25,7 @@ $ npm install @rojs/ro-js
 ```
 Using:
 ```js
-const rojs = require('@rojs/ro-js')![фыцф](https://user-images.githubusercontent.com/100857666/156768082-4da44ad8-3927-4d48-9320-7dbd8db0fed3.png)![фыцф](https://user-images.githubusercontent.com/100857666/156768085-ccce11a2-63dc-427d-a3a9-7b801470c046.png)
+const rojs = require('@rojs/ro-js')
 
 
 ```
