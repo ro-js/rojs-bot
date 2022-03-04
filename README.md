@@ -13,6 +13,7 @@ After that, change your [config.json](https://github.com/ro-js/rojs-bot/blob/mai
 	"token": "OTQ5Mjg4OTEyNTUwMDAyNzM4.YiIMMQ.gSYh_WtUszkLGVfl6B5MWnRucGs"
 }
 ```
+And then, you can start bot!<br>
 [![warn1](https://raw.githubusercontent.com/ro-js/rojs/docs/фыцф.PNG)](#)
 
 ----------------
